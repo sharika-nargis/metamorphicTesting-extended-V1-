@@ -1,0 +1,5 @@
+original_text,original_pred,transformed_text,transformed_pred,passed,status,error
+I love this movie,This text is mostly composed with positive sentiment.,I really love this movie,This text is mostly composed with positive sentiment.,True,ok,
+The product was outstanding and exceeded expectations,This text is mostly composed with positive sentiment.,The really product was outstanding and exceeded expectations,This text is mostly composed with positive sentiment.,True,ok,
+I do not like this restaurant,This text is mostly composed with positive sentiment.,I totally do not like this restaurant,This text is mostly composed with positive sentiment.,True,ok,
+The service was okay but the food was great,This text is mostly composed with positive sentiment.,The really service was okay but the food was great,This text is mostly composed with positive sentiment.,True,ok,
