@@ -39,7 +39,8 @@ Expected: Sentiment prediction remains unchanged.
 8. Generate CSV report
    
 ## Project Structure
-```metamorphic-testing-sentiment-analysis/
+```
+metamorphic-testing-sentiment-analysis/
 │
 ├── mr1_test.py
 ├── mr1_results.csv
