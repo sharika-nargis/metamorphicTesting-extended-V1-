@@ -51,7 +51,7 @@ metamorphic-testing-sentiment-analysis/
 ## Installation
 
 ### Clone Repository
-git clone https://github.com/your-username/metamorphicTesting-extended-V1-.git
+git clone https://github.com/your-username/metamorphicTesting-extended-V1-.git <br>
 cd metamorphic-testing-sentiment-analysis
 
 ### Install Dependencies
